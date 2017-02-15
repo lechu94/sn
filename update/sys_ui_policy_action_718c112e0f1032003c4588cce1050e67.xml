@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>needed_until</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-16 17:28:05</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>718c112e0f1032003c4588cce1050e67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>needed_until</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_86356_marketing">097945220f1032003c4588cce1050e14</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">097945220f1032003c4588cce1050e14</sys_scope>
+        <sys_update_name>sys_ui_policy_action_718c112e0f1032003c4588cce1050e67</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-01-16 17:28:05</sys_updated_on>
+        <table>x_86356_marketing_equipment_request</table>
+        <ui_policy display_value="hides needed from and needed until until marketing event is selected">644c5dea0f1032003c4588cce1050e13</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
